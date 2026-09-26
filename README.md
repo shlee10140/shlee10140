@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ `shlee10140`
+#  `shlee10140`
 
 <p align="center">
   <b>Software Engineering & Systems Architecture</b>
