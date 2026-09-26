@@ -3,19 +3,14 @@
 #  `shlee10140`
 
 <p align="center">
-  <b>Software Engineering & Systems Architecture</b>
+  <code>Software Engineering</code> &nbsp;•&nbsp; <code>Backend Systems</code> &nbsp;•&nbsp; <code>Algorithms</code>
 </p>
+
+<br/>
 
 <!-- 🍱 Bento Grid Container -->
 <table align="center" width="100%">
-  <!-- Row 1: Hero Status Card -->
-  <tr>
-    <td colspan="2" align="center" style="padding: 20px;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=%24+whoami;shlee10140;%24+cat+focus.txt;Backend+Systems+%26+Algorithms;%24+make+it+clean." />
-    </td>
-  </tr>
-
-  <!-- Row 2: Tech Stack & Live Streak -->
+  <!-- Row 1: Core Languages & Activity Streak -->
   <tr>
     <td width="50%" valign="top" style="padding: 16px;">
       <h3>🛠️ Core Languages</h3>
@@ -33,7 +28,7 @@
     </td>
   </tr>
 
-  <!-- Row 3: Engineering Focus & Environment -->
+  <!-- Row 2: Engineering Focus & Dev Environment -->
   <tr>
     <td width="50%" valign="top" style="padding: 16px;">
       <h3>🎯 Engineering Focus</h3>
